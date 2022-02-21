@@ -1,0 +1,20 @@
+.bg-blue {
+    background-color: #006cfa;
+}
+
+.bg-green {
+    background-color: #00e165;
+}
+
+.height-50px {
+    height: 50px;
+}
+
+section > div {
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    color: white;
+
+    font-size: 15px;
+}
