@@ -1,0 +1,27 @@
+.bg-red {
+    background-color: #d1231a;
+}
+
+.bg-pink {
+    background-color: #eebf8b;
+}
+
+.bg-brown {
+    background-color: #824226;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-blue {
+    background-color: #474ed0;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.height-50px {
+    height: 60px;
+}
