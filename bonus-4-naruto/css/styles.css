@@ -1,0 +1,39 @@
+.bg-orange {
+    background-color: #e6560d;
+}
+
+.bg-red {
+    background-color: #f50101;
+}
+
+.bg-pink {
+    background-color: #f3bc79;
+}
+
+.bg-brown {
+    background-color: #b57240;
+}
+
+.bg-lightbrown {
+    background-color: #b87143;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-blue {
+    background-color: #0c25af;
+}
+
+.bg-yellow {
+    background-color: #f5e706;
+}
+
+.height-20px {
+    height: 20px;
+}
+
+section > div {
+    border: 1px solid black;
+}
