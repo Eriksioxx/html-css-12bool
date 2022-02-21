@@ -10,6 +10,10 @@
     height: 50px;
 }
 
+.height-30px {
+    height: 30px;
+}
+
 section > div {
     justify-content: center;
     align-items: center;
@@ -17,4 +21,36 @@ section > div {
     color: white;
 
     font-size: 15px;
+}
+
+.part-1,
+.part-2 {
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid white;
+}
+
+.part-1 > div,
+.part-2 > div {
+    border: 1px solid #006cfa;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 11px;
+}
+
+.part-1 div:first-child,
+.part-2 div:first-child {
+    border-left: 10px solid #006cfa;
+}
+
+.part-1 div:last-child,
+.part-2 div:last-child {
+    border-right: 10px solid #006cfa;
+}
+
+.second-part,
+h3 {
+    margin-top: 20px;
 }
