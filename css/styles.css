@@ -18,6 +18,10 @@
     height: 30px;
 }
 
+.flex-text {
+    display: flex;
+}
+
 section > div {
     justify-content: center;
     align-items: center;
